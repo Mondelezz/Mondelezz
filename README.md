@@ -2,7 +2,7 @@
 
 <h1 align="center">☠️ Привет, меня зовут Егор Панков, и я backend-developer C# </h1>
 
-<img align="right" alt="WAR" width="600" src="https://i.pinimg.com/originals/73/16/06/7316066ba082e19cd1c88a78551c2e93.gif">
+<img align="right" alt="WAR" width="600" src="https://steamuserimages-a.akamaihd.net/ugc/792004194697539159/3662586349918F7C5D4D94D8A76DA2571F935F1F/?imw=512&amp;&amp;ima=fit&amp;impolicy=Letterbox&amp;imcolor=%23000000&amp;letterbox=false">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mondelezz&label=Profile%20views&color=0e75b6&style=flat" alt="mondelezz" /> </p>
 
