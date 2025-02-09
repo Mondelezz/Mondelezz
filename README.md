@@ -1,6 +1,6 @@
 [![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/792004194697539159/3662586349918F7C5D4D94D8A76DA2571F935F1F/)](https://github.com/Mondelezz)
 
-<h1 align="center">☠️ С# backend-developer + Angular(Typescript) ☠️</h1>
+<h1 align="center"> ☠️ C# Backend Developer, React (Typescript) ☠️</h1>
 
 
 
